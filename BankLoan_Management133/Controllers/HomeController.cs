@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BankLoan_Management133.Controllers
 {
+    //test change
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
