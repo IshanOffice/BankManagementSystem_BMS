@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Identity;
 using System.Numerics;
 
 namespace BankLoan_Management133.Controllers
-{
+{//test comment
     public class CustomerController : Controller
     {
         private readonly IBusinessLogic _businessLogic;
